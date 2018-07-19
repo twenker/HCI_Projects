@@ -1,0 +1,15 @@
+New Site:
+	Times: 5.467, 6.183, 3.15, 3.5, 3.717
+	easy to nav: 3, 2.5, 3, 3, 3
+	easy to order: 3, 3, 5, 3, 4
+	not annoying: 3, 2, 4, 4, 3
+
+
+Old Site:
+	Times: 9.4, 11.317, 6.867, 6.267, 4.45
+	easy to nav: 2, 2, 4, 4, 3
+	easy to order: 4, 4, 5, 3, 2
+	not annoying: 2, 2, 4, 2, 3
+
+Times are rounded to the second before being converted to fractions of minutes. 
+For example, 9.4 is equivalent to 9 minutes and .4 minutes (which is 24 seconds).
